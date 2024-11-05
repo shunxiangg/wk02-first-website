@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: rgb(255, 228, 196);
+}
+
+div {
+    color: rgb(218, 161, 86);
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+header ul li {
+    color: beige;
+    
+}
+
+
+p {
+    color: rgb(136, 123, 82);
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+body larger {
+    color: rgb(217, 187, 99);
+    font-size: x-large;
+}
+
+
+body {
+    color: darksalmon;
+    font-size: larger;
+}
+
+header2 {
+    color: blueviolet;
+}
+
